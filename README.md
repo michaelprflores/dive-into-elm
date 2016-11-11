@@ -1,5 +1,5 @@
 #Dive Into Elm
-Take a dive into [Elm][13] (part of the [Sweet Libs Lab][1] from General Assembly's Web Development Immersive.
+Take a ~~dive~~ swim into [Elm][13] (part of the [Sweet Libs Lab][1] from General Assembly's Web Development Immersive.
 
 ![Meme of Captain America][26]
 
