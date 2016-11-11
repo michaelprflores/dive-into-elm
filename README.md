@@ -125,7 +125,9 @@ _Note: At this point, this is more of a casual swim rather than a dive - Novembe
   **Step 5 - follow the errors**
 
 ## Results
+  
   _November, 11 2016_
+  
   My biggest takeway was from this short swim into Elm was **Error messages for the win!**
   My `main.elm` file was blank and I was happy to see this really nice error message. I didn't know what I was doing but the error messages really helped guide the way. This seems to be a trend in modern programming. It makes sense that any language with helpful error messages will be more accepting. My other observation, is that while the syntax is unfamiliar it looks very really clean and concise. I like how the architecture is laid out as Model, Update, View. Angular gets clunkly very quickly. I'm definitely more curious about how to build with the compiling language.
 
