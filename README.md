@@ -1,6 +1,8 @@
 #Dive Into Elm
 Take a dive into [Elm][13] (part of the [Sweet Libs Lab][1] from General Assembly's Web Development Immersive.
 
+![Meme of Captain America][26]
+
 ## Objective
 
 Learn how to learn something new
@@ -172,3 +174,4 @@ _Note: At this point, this is more of a casual swim rather than a dive - Novembe
 [23]:https://github.com/deadfoxygrandpa/Elm.tmLanguage
 [24]:https://atom.io/packages/language-elm
 [25]:http://engineering.truqu.com/
+[26]:http://i.imgur.com/GAP7p8b.gif
