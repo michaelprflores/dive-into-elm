@@ -105,6 +105,7 @@ _Note: At this point, this is more of a casual swim rather than a dive - Novembe
   **Step 3 - install an elm syntax highlighter**
 
   [Sublime Text 2/3][23]
+  
   [Atom][24]
 
   **Step 4 - create and setup an elm file**
