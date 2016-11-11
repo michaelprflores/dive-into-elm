@@ -11,12 +11,12 @@ Disclaimer! I don't know JavaScript all that well...yet! But, I was encouraged a
 - 11AM - research Functional Programming in web development
 - 12PM - research Elm
 - 1PM - determine something to build based on research
-- 2:45 PM - Put together presentation notes (results) and resources used
-- 3:30 PM - Share with class
+- 2:45 PM - put together conclusion and resources used
+- 3:30 PM - share with class
 
-## Results
+## Research
 
-### 1. Functional Programming
+### Functional Programming
 
 <details>
   <summary><strong>What is it?</strong></summary>
@@ -62,9 +62,30 @@ Disclaimer! I don't know JavaScript all that well...yet! But, I was encouraged a
 
 </details>
 
-### 2. Elm
+### Elm
 
+<details>
+  <summary><strong>What is it?</strong></summary>
 
+  * Straight from the source, "Elm compiles to JavaScript, so trying out Elm is easy. Convert a small part of your app to Elm and embed it in JS." [http://elm-lang.org/][13]
+  * It's alternative to writing JavaScript. "Elm is a cutting-edge functional programming language that you can use instead of JavaScript - or alongside it" [Richard Feldman][14]
+  * It's _revolutionizing_ and _changing the game_ for Javascripteers.
+
+</details>
+
+<details>
+  <summary><strong>What can I make with it?</strong></summary>
+  * You can make anything that you would want to make with JavaScript.
+</details>
+
+## Code
+
+Now that we know a lil sumthin, let's code!
+
+  - Step 1
+    - `npm install -g elm`
+
+## Results
 
 ## Resources
 
@@ -74,6 +95,14 @@ Disclaimer! I don't know JavaScript all that well...yet! But, I was encouraged a
 - [Definition of Functional programming via Stack Overflow][7]
 - [Really good definition of Functional programming via Quora][8]
 - [A good breakdown from The Pragmatic Bookshelf][9]
+- [2016 Full Stack Fest][12]
+- [Confident Frontend with Elm - Jack Franklin][11]
+- [Elm Basics - Andy Balaam][15]
+- [Elm or how I learned to love front end development - Marco Perone][16]
+- [goto; conference][17]
+- [Elm-Friendly Functional Programming For The Web - Luke Westby][18]
+- [Adventures in Elm - Jessica Kerr][19]
+- [Awesome Elm][20]
 
 
 [1]:https://github.com/ga-wdi-exercises/sweet-libs
@@ -86,3 +115,13 @@ Disclaimer! I don't know JavaScript all that well...yet! But, I was encouraged a
 [8]:https://www.quora.com/What-is-functional-programming
 [9]:https://pragprog.com/magazines/2013-01/functional-programming-basics
 [10]:https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming
+[11]:https://www.youtube.com/watch?v=rDQ22Yg3Fms
+[12]:https://2016.fullstackfest.com/
+[13]:http://elm-lang.org/
+[14]:https://www.youtube.com/watch?v=zBHB9i8e3Kc
+[15]:https://www.youtube.com/watch?v=g48K6ABfRzA
+[16]:https://www.youtube.com/watch?v=DX28Hyn8gQw
+[17]:http://gotocon.com/
+[18]:https://www.youtube.com/watch?v=tN5UmM2yZPY
+[19]:https://www.youtube.com/watch?v=cgXhMc8M4X4
+[20]:https://github.com/isRuslan/awesome-elm
