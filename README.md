@@ -7,18 +7,6 @@ Learn how to learn something new
 
 **Disclaimer!** I don't know JavaScript all that well...yet! But, I was encouraged, after reading this [Metal Toad blog post][2] and speaking to an instructor, to go ahead and jump in. I thought it best to pair learning about Elm with Functional programming. So, a third of my time was spent exploring Functional programming. That being said, feel free to skip the Functional programming part as it was more of a curiosity.
 
-#### Assignment
-
-Research, get started and write code, write docs, and present results about [Elm][13]
-
-#### Schedule:
-
-11AM - research Functional Programming in web development
-12PM - research Elm
-2PM - get started with [An Introduction to Elm][21] and build something to demo.
-3:20 PM - put together conclusion and button up resources
-3:30 PM - share it with people
-
 ## Research
 
 ### Functional Programming
