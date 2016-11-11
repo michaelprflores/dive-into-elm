@@ -112,23 +112,32 @@ _Note: At this point, this is more of a casual swim rather than a dive - Novembe
 
   There is also `elm-make` to compile your code into HTML or JavaScript and `elm-package` to manage your project dependencies.
 
-  **Step 3 - create and setup an elm file**
-
-  `touch main.elm`
-
-  Elm uses a Model, Update, View architecture.
-
-  **Step 4 - install an elm syntax highlighter**
+  **Step 3 - install an elm syntax highlighter**
 
   [Sublime Text 2/3][23]
   [Atom][24]
 
+  **Step 4 - create and setup an elm file**
+
+  `touch main.elm`
+
+  Elm uses a Model, Update, View architecture. Like Angular, it has requirements at the top of the file.
+
+  ```
+  import Html exposing (..)
+  import Html.App as Html
+  import Html.Attributes exposing (..)
+  import Html.Events exposing (onInput)
+  ```
+
+  Clicking on the `main.elm` file in the browser runs several installations.
+
+  **Step 5 - follow the errors**
+
+  
 
 ## Results
 - Error messages for the win! My `main.elm` file was blank and I was happy to see this nice error message.
-
-
-
 
 ## Resources
 
