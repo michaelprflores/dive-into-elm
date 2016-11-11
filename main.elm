@@ -1,7 +1,7 @@
 import Html exposing (..)
 import Html.App as Html
 import Html.Attributes exposing (..)
-import Html.Events exposing (onInput)
+import Html.Events exposing (onInput, onClick)
 
 
 main =
@@ -46,4 +46,5 @@ view : Model -> Html Msg
 view model =
   div []
     [ input [ type' "text", placeholder "Email", onInput Email ] []
+    , button [ class "btn btn-default" ][ text "Submit" ]
     ]
