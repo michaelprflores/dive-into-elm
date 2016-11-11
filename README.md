@@ -1,18 +1,23 @@
 #Dive Into Elm
-Take a deep dive into Elm (part of the [Sweet Libs Lab][1] from General Assembly's Web Development Immersive.
+Take a dive into [Elm][13] (part of the [Sweet Libs Lab][1] from General Assembly's Web Development Immersive.
 
-## Objective: Learn how to learn something new
+## Objective
 
-Disclaimer! I don't know JavaScript all that well...yet! But, I was encouraged after reading this [Metal Toad blog post][2] and speaking to an instructor to go ahead and jump in. I thought it best to pair learning about Elm with Functional Javascript so a third of my time will be spent exploring Functional Programming.
+Learn how to learn something new
 
-## My Goal: Research, write, and present something about Elm.
-## Schedule:
+**Disclaimer!** I don't know JavaScript all that well...yet! But, I was encouraged, after reading this [Metal Toad blog post][2] and speaking to an instructor, to go ahead and jump in. I thought it best to pair learning about Elm with Functional programming. So, a third of my time was spent exploring Functional programming. That being said, feel free to skip the Functional programming part as it was more of a curiosity.
 
-- 11AM - research Functional Programming in web development
-- 12PM - research Elm
-- 1PM - determine something to build based on research
-- 2:45 PM - put together conclusion and resources used
-- 3:30 PM - share with class
+#### Assignment
+
+Research, get started and write code, write docs, and present results about [Elm][13]
+
+#### Schedule:
+
+11AM - research Functional Programming in web development
+12PM - research Elm
+2PM - get started with [An Introduction to Elm][21] and build something to demo.
+3:20 PM - put together conclusion and button up resources
+3:30 PM - share it with people
 
 ## Research
 
@@ -62,28 +67,47 @@ Disclaimer! I don't know JavaScript all that well...yet! But, I was encouraged a
 
 </details>
 
-### Elm
+### [Elm][13]
 
 <details>
   <summary><strong>What is it?</strong></summary>
 
+  * **Elm is a functional language that compiles to JavaScript**
+
   * Straight from the source, "Elm compiles to JavaScript, so trying out Elm is easy. Convert a small part of your app to Elm and embed it in JS." [http://elm-lang.org/][13]
+
   * It's alternative to writing JavaScript. "Elm is a cutting-edge functional programming language that you can use instead of JavaScript - or alongside it" [Richard Feldman][14]
+
   * It's _revolutionizing_ and _changing the game_ for Javascripteers.
+
+  * You had me at "friendly errors". 
+  "Elm is about:
+    - No runtime errors in practice. No null. No undefined is not a function.
+    - Friendly error messages that help you add features more quickly.
+    - Well-architected code that stays well-architected as your app grows.
+    - Automatically enforced semantic versioning for all Elm packages."
+    [An Introduction to Elm][21]
 
 </details>
 
 <details>
   <summary><strong>What can I make with it?</strong></summary>
+
   * You can make anything that you would want to make with JavaScript.
+
 </details>
 
 ## Code
 
-Now that we know a lil sumthin, let's code!
+Now that we know a lil sumthin, let's code! Also, this is more of a casual swim rather than a deep dive.
 
-  - Step 1
-    - `npm install -g elm`
+  **Step 1**
+  
+  `npm install -g elm`
+
+  **Step 2**
+  
+  Let's create a contact form using elm.
 
 ## Results
 
@@ -125,3 +149,4 @@ Now that we know a lil sumthin, let's code!
 [18]:https://www.youtube.com/watch?v=tN5UmM2yZPY
 [19]:https://www.youtube.com/watch?v=cgXhMc8M4X4
 [20]:https://github.com/isRuslan/awesome-elm
+[21]:https://guide.elm-lang.org/
