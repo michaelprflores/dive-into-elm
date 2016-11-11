@@ -99,17 +99,36 @@ Research, get started and write code, write docs, and present results about [Elm
 
 ## Code
 
-Now that we know a lil sumthin, let's code! Also, this is more of a casual swim rather than a deep dive.
+Now that we know a lil sumthin, let's code! Let's create a **contact form** with [Elm][13].
+_Note: At this point, this is more of a casual swim rather than a dive - November 11, 2016_
 
-  **Step 1**
+  **Step 1 - install Elm globally**
   
   `npm install -g elm`
 
-  **Step 2**
-  
-  Let's create a contact form using elm.
+  **Step 2 - use `elm-` commands in your project**
+
+  Running, `elm-reactor`, at the root of the project, starts a server at `http://localhost:8000`.
+
+  There is also `elm-make` to compile your code into HTML or JavaScript and `elm-package` to manage your project dependencies.
+
+  **Step 3 - create and setup an elm file**
+
+  `touch main.elm`
+
+  Elm uses a Model, Update, View architecture.
+
+  **Step 4 - install an elm syntax highlighter**
+
+  [Sublime Text 2/3][23]
+  [Atom][24]
+
 
 ## Results
+- Error messages for the win! My `main.elm` file was blank and I was happy to see this nice error message.
+
+
+
 
 ## Resources
 
@@ -127,6 +146,7 @@ Now that we know a lil sumthin, let's code! Also, this is more of a casual swim 
 - [Elm-Friendly Functional Programming For The Web - Luke Westby][18]
 - [Adventures in Elm - Jessica Kerr][19]
 - [Awesome Elm][20]
+- [Elm Architecture][22]
 
 
 [1]:https://github.com/ga-wdi-exercises/sweet-libs
@@ -150,3 +170,6 @@ Now that we know a lil sumthin, let's code! Also, this is more of a casual swim 
 [19]:https://www.youtube.com/watch?v=cgXhMc8M4X4
 [20]:https://github.com/isRuslan/awesome-elm
 [21]:https://guide.elm-lang.org/
+[22]:https://github.com/evancz/elm-architecture-tutorial/
+[23]:https://github.com/deadfoxygrandpa/Elm.tmLanguage
+[24]:https://atom.io/packages/language-elm
